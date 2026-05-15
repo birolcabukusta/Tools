@@ -1,5 +1,5 @@
 # Tools
-Tools to Make Lab Life Easier
+Tools I made or collected to make lab life easier
 
 ~ ~ ~ 
 
@@ -7,3 +7,7 @@ Tools to Make Lab Life Easier
 A tool that creates forward and reverse primers in bulk. 
 
 [FFAT motif calculator](https://github.com/birolcabukusta/Tools/blob/main/FFAT_score_calculate_1.ipynb) : A tool to calculate FFAT scores in a single protein
+
+[Kibby Conservation analysis]
+
+[PAE comparison of JSON files]
